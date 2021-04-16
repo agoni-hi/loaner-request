@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-16 02:46:48</sys_created_on>
+        <sys_id>5aac2dedff2320104215a4e8b721f1d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_609128_loaner_re">3c15c155ffab60104215a4e8b721f1ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">3c15c155ffab60104215a4e8b721f1ad</sys_scope>
+        <sys_update_name>sys_ui_policy_action_5aac2dedff2320104215a4e8b721f1d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-16 02:46:48</sys_updated_on>
+        <table>x_609128_loaner_re_loaner_request</table>
+        <ui_policy display_value="Make Other field visible and  mandatory  - Loaner Requested">bf7b61edff2320104215a4e8b721f104</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
